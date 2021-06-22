@@ -7,5 +7,6 @@ function palindrome(str) {
       .split("")
       .reverse()
       .join("")
+      // this is a test
   );
 }
